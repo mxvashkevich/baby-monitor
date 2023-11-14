@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "egorTrack",
-    "slug": "egorTrack",
+    "name": "baby-monitor",
+    "slug": "baby-monitor",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,8 +23,8 @@
         "backgroundColor": "#ffffff"
       }
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
+    "experiments": {
+      "tsconfigPaths": true
     }
   }
 }
